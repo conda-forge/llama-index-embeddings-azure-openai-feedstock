@@ -21,6 +21,7 @@ requirements:
     - python ${{ python_min }}.*
     - pip
     - poetry-core
+    - hatchling
   run:
     - python >=${{ python_min }}
     - llama-index-llms-azure-openai <0.4.0,>=0.3.0

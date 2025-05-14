@@ -1,5 +1,5 @@
 context:
-  version: "0.3.3"
+  version: "0.3.4"
 
 package:
   name: llama-index-embeddings-azure-openai
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/l/llama-index-embeddings-azure-openai/llama_index_embeddings_azure_openai-${{ version }}.tar.gz
-    sha256: 8db2411229a801b2de8e994ed3e37c0ecd136188c45556d0499b6ddba88e7bdf
+    sha256: a5c695d12021d41cbfd40fd79b3dd91a2412f9fd4f9eb3aa6cc1f6f4241c496d
   - url: https://raw.githubusercontent.com/run-llama/llama_index/main/LICENSE
     sha256: 24f40b5190fdacabc24ddbb5f76364d15e4f030925220ea300d8a2dd4993c8cb
 
